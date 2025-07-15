@@ -1,5 +1,5 @@
-# GrassHopper
-Todos as soluções propostas por Laura Holmes em PT
+# Grasshopper
+Todos as soluções dos problemas propostos por Laura Holmes em PT-BR
 
 Dicas e truques
 
